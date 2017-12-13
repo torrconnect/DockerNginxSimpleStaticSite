@@ -1,2 +1,2 @@
-# DockerNginxSimpleStaticSite
-Simple Static Site configuration (NGINX) for Docker in InfoboxCloud
+# Docker_Nginx
+Simple Static Site configuration NGINX
